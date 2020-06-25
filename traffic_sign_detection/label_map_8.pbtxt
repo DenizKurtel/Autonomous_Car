@@ -1,0 +1,39 @@
+item {
+    id: 1
+    name: 'do not enter'
+}
+
+item {
+    id: 2
+    name: 'green light'
+}
+
+item {
+    id: 3
+    name: 'pedestrian crossing'
+}
+
+item {
+    id: 4
+    name: 'red light'
+}
+
+item {
+    id: 5
+    name: 'school crossing'
+}
+
+item {
+    id: 6
+    name: 'speed limit 50'
+}
+
+item {
+    id: 7
+    name: 'speed limit 70'
+}
+
+item {
+    id: 8
+    name: 'stop sign'
+}
